@@ -1,0 +1,30 @@
+                 levelName
+1  odor                   
+2   ¦--p:y=p              
+3   ¦--a:y=e              
+4   ¦--l:y=e              
+5   ¦--n:spore.print.color
+6   ¦   ¦--n:y=e          
+7   ¦   ¦--k:y=e          
+8   ¦   ¦--w:habitat      
+9   ¦   ¦   ¦--w:y=e      
+10  ¦   ¦   ¦--l:cap.color
+11  ¦   ¦   ¦   ¦--c:y=e  
+12  ¦   ¦   ¦   ¦--n:y=e  
+13  ¦   ¦   ¦   ¦--w:y=p  
+14  ¦   ¦   ¦   °--y:y=p  
+15  ¦   ¦   ¦--d:gill.size
+16  ¦   ¦   ¦   ¦--n:y=p  
+17  ¦   ¦   ¦   °--b:y=e  
+18  ¦   ¦   ¦--g:y=e      
+19  ¦   ¦   °--p:y=e      
+20  ¦   ¦--h:y=e          
+21  ¦   ¦--r:y=p          
+22  ¦   ¦--o:y=e          
+23  ¦   ¦--y:y=e          
+24  ¦   °--b:y=e          
+25  ¦--f:y=p              
+26  ¦--c:y=p              
+27  ¦--y:y=p              
+28  ¦--s:y=p              
+29  °--m:y=p   
